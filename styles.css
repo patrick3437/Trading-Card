@@ -1,0 +1,57 @@
+.card {
+    margin: auto;
+    padding: 15px;
+    width: 350px;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    font-family: 'Oswald', sans-serif;
+    background-color: #AEB6BF;
+    background-image: url(https://i.imgur.com/eo1zVjF.jpg);
+}    
+
+h3 {
+    margin: 0 0 15px 0;
+    padding: 5px 10px;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    background-color: #ffffff;
+}
+
+.image-div {
+    margin: 15px auto;
+    width: 350px;
+    height: 350px;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    overflow: hidden;
+}
+
+.image-div img {
+    width: 100%;
+    height: auto;
+}
+
+.info {
+    margin: auto;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    background-color: #ffffff;
+    font-size: 0.8em;
+}
+
+#description {
+    font-style: italic;
+}
+
+#list-items {
+    list-style: none;
+    padding-left: 0
+}
+#list-items span {
+    font-weight: bold;
+}
+
+.indent {
+    padding-left: 30px;
+}
